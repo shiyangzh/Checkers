@@ -1,0 +1,9 @@
+- Player 1 moves first and controls the red pieces, and player 2 controls the black pieces.
+- Pieces are moved by clicking on a square that contains a piece, and dragging the mouse to a valid location to move it to.
+- All pieces must stay on the dark squares and move exactly 1 square in both the horizontal and vertical direction, 
+  except when capturing a piece (the piece will move 2 squares in both directions).
+- To capture a piece, release the mouse on a piece of the opposite color (the square behind that piece must be empty).
+- Regular pieces must always move forward (away from the side they started on), but King pieces can move backwards.
+- To promote a piece to a king, the piece must reach the opposite side of the board it started on.
+- Multiple pieces cannot be captured in a single turn.
+- If a player has no legal moves, they automatically lose.
